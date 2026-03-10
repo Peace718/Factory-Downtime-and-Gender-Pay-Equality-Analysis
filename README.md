@@ -92,7 +92,7 @@ Based on the analysis, the following actions are recommended:
 
 ## Task 2 – Gender Pay Equality Analysis
 ### Objective
-Analyze employee compensation data to identify potential gender pay inequality across job roles and factory locations.
+Analyzing employee compensation data to identify potential gender pay inequality across job roles and factory locations.
 
 ### Dataset
 The dataset includes the following columns:
