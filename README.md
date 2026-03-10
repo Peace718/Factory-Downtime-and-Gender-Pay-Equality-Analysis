@@ -7,7 +7,7 @@ The project focuses on analyzing operational and workforce data from Daikibo Ind
 The analysis was divided into two tasks:
 - Machine Downtime Analysis using Tableau
 - Gender Pay Equality Analysis using Microsoft Excel
-- The project demonstrates how data analytics can be applied to identify operational inefficiencies and potential workplace inequalities.
+The project demonstrates how data analytics can be applied to identify operational inefficiencies and potential workplace inequalities.
 
 **NOTE**: The dataset used in this project is simulated and provided for educational purposes.
 
