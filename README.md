@@ -45,6 +45,7 @@ Telemetry data was collected from four Daikibo factories:
 - Seiko Factory – Osaka, Japan
 - Berlin Factory – Germany
 - Shenzhen Factory – China
+
 Each factory operates nine different machine types.
 Machines send a status message every 10 minutes, and the dataset covers May 2021.
 
