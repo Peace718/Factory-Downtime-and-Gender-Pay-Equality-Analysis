@@ -46,7 +46,7 @@ Two visualizations were created:
 2. Total DownTime per Device Type: A bar chart showing downtime by machine type.
 Both visualizations were combined into an interactive dashboard, where selecting a factory filters the machine-level breakdown.
 
-![Image description](images/dashboard.png)
+![My Full Dashboard](My Full Dashboard.png)
 
 📊 View the Interactive Tableau Dashboard:
 👉 [https://public.tableau.com/app/profile/olorunfemi.modupe.peace/viz/DaikiboDowntimeDashboard/-DaikiboDowntimeDashboard-?publish=yes]
