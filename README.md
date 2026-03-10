@@ -35,7 +35,7 @@ The analysis followed a structured data analytics workflow:
 
 ## Task 1 – Factory Machine Downtime Analysis
 ### Objective
-Analyze telemetry data to determine:
+To analyze telemetry data to determine:
 - Which factory experienced the highest machine downtime.
 - Which machine type contributed the most downtime in that factory.
 
