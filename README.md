@@ -48,7 +48,7 @@ Logic used:
 - If machine status = Healthy, assign 0 minutes
 This allowed total downtime to be calculated across factories and machine types.
 
-Data Visualization - Dashboard
+### Data Visualization - Dashboard
 Two visualizations were created:
 1. Total DownTime per Factory: A bar chart comparing total downtime across factory locations.
 2. Total DownTime per Device Type: A bar chart showing downtime by machine type.
@@ -110,6 +110,10 @@ A Pivot Table and Pivot Chart were created to visualize the distribution of equa
 ### Key Insight
 The analysis shows that most job roles fall into the Fair category, indicating reasonable pay balance.
 However, several roles fall into Unfair and Highly Discriminative categories, highlighting areas where compensation policies may require further review.
+
+### Business Recommendation
+Based on the equality analysis, the organization should review compensation policies for roles classified as Unfair or Highly Discriminative.
+Conducting periodic gender pay audits, implementing transparent salary structures, and analyzing compensation across departments can help ensure fair pay practices and strengthen organizational trust.
 
 ## Tools and Technologies
 - Tableau
