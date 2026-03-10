@@ -64,6 +64,7 @@ This allowed total downtime to be calculated across factories and machine types.
 Two visualizations were created:
 1. Total DownTime per Factory: A bar chart comparing total downtime across factory locations.
 2. Total DownTime per Device Type: A bar chart showing downtime by machine type.
+
 Both visualizations were combined into an interactive dashboard, where selecting a factory filters the machine-level breakdown.
 
 ![Dashboard Preview](dashboard_preview.png)
