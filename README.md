@@ -25,7 +25,7 @@ Daikibo Industrials operates several manufacturing factories globally. The compa
 The organization also received internal complaints regarding potential gender pay inequality across job roles.
 The goal of this project was to analyze these datasets and answer key business questions.
 
-## Project Workflow
+## Project Workflow / Methodology
 The analysis followed a structured data analytics workflow:
 - **Data Collection**: Imported telemetry and equality datasets provided in the simulation.
 - **Data Preparation**: Cleaned and structured the datasets for analysis in Tableau and Excel.
