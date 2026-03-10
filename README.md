@@ -48,19 +48,63 @@ Both visualizations were combined into an interactive dashboard, where selecting
 
 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/olorunfemi.modupe.peace/viz/DaikiboDowntimeDashboard/-DaikiboDowntimeDashboard-?publish=yes)
 
+### Key Insight
+The analysis revealed that Daikibo Factory Seiko (Osaka, Japan) recorded the highest machine downtime during May 2021, totaling 480 minutes (8 hours).
+The downtime was primarily caused by the LaserWelder machine, which did not show similar failure patterns in the other factory locations.
+This indicates that the issue may be specific to the Seiko factory, rather than a system-wide issue affecting all Daikibo facilities.
 
+### Operational Risk Insight
+The concentration of downtime in a single machine type (LaserWelder) may represent an operational risk if production processes depend heavily on this device.
+If the LaserWelder plays a critical role in the manufacturing workflow, repeated failures could lead to production delays, reduced efficiency, and potential financial losses.
+Identifying and resolving this issue early allows the organization to implement preventive maintenance strategies and risk mitigation measures.
 
+### Business Recommendations
+Based on the analysis, the following actions are recommended:
+- Investigate the LaserWelder machine at the Seiko factory to determine the root cause of repeated failures.
+- Conduct preventive maintenance inspections for the affected machine type.
+- Compare operating conditions across factories to identify environmental or operational differences.
+- Implement continuous machine performance monitoring dashboards.
 
+## Task 2 – Gender Pay Equality Analysis
+### Objective
+Analyze employee compensation data to identify potential gender pay inequality across job roles and factory locations.
 
+### Dataset
+The dataset includes the following columns:
+- Factory
+- Job Role
+- Equality Score
+The Equality Score ranges from -100 to +100, where 0 indicates perfect equality.
 
+### Data Processing
+A new column called Equality Class was created to categorize equality scores.
+The following Excel formula was used:
+```
+=IF(ABS(C2)<=10,"Fair",IF(ABS(C2)<=20,"Unfair","Highly Discriminative"))
+```
 
+| Equality Score         | Category              |
+| ---------------------- | --------------------- |
+| -10 to +10             | Fair                  |
+| -20 to -11 or 11 to 20 | Unfair                |
+| < -20 or > 20          | Highly Discriminative |
 
+### Data Visualization
+To improve data interpretation:
+1. Conditional formatting was applied
 
+2. Categories were color coded:
 
+- Blue – Fair
 
+- Orange – Unfair
 
+- Red – Highly Discriminative
 
+A Pivot Table and Pivot Chart were created to visualize the distribution of equality classifications.
 
+📂 View the Excel Analysis File:
+👉 [Insert Google Drive or GitHub File Link]
 
 
 
