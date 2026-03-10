@@ -54,6 +54,10 @@ Two visualizations were created:
 2. Total DownTime per Device Type: A bar chart showing downtime by machine type.
 Both visualizations were combined into an interactive dashboard, where selecting a factory filters the machine-level breakdown.
 
+![Dashboard Preview](dashboard_preview.png)
+
+![Dashboard Solution Preview](dashboard_solution_preview.png)
+
 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/olorunfemi.modupe.peace/viz/DaikiboDowntimeDashboard/-DaikiboDowntimeDashboard-?publish=yes)
 
 ### Key Insight
@@ -105,6 +109,9 @@ To improve data interpretation:
 - Orange – Unfair
 - Red – Highly Discriminative
 A Pivot Table and Pivot Chart were created to visualize the distribution of equality classifications.
+
+![Frequency of Equality Class Categories](frequency_of_equality_class_categories.png)
+
 [View the Excel Analysis File](https://1drv.ms/x/c/b81fd396c97d9651/IQCX05xgKCPfQpvDX_J6wzvNAWXnHQOhXkRmBhtQ__1nd6A?e=F9deTp)
 
 ### Key Insight
