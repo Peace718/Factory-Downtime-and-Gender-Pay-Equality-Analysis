@@ -138,6 +138,7 @@ Conducting periodic gender pay audits, implementing transparent salary structure
 ## Business Impact
 The insights from this analysis can support Daikibo Industrials in improving both operational efficiency and workplace fairness.
 From an operational perspective, identifying the Seiko factory as the location with the highest downtime highlights a clear opportunity for targeted maintenance improvements. Addressing the LaserWelder issue could reduce machine downtime, improve productivity, and prevent potential manufacturing delays.
+
 From a workforce perspective, the gender equality analysis provides an initial overview of potential pay imbalance across job roles. Identifying roles that fall into the Unfair or Highly Discriminative categories allows leadership to investigate compensation policies and ensure fair pay practices.
 Together, these insights demonstrate how data analysis can support both operational performance and organizational accountability.
 
