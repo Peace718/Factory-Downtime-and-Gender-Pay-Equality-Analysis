@@ -52,10 +52,12 @@ Machines send a status message every 10 minutes, and the dataset covers May 2021
 ### Data Preparation
 The dataset was imported into Tableau.
 A calculated field called Unhealthy was created to measure machine downtime.
+
 Logic used:
-- Each telemetry message represents 10 minutes
-- If machine status = Unhealthy, assign 10 minutes of downtime
-- If machine status = Healthy, assign 0 minutes
+- Each telemetry message represents 10 minutes.
+- If machine status = Unhealthy, assign 10 minutes of downtime.
+- If machine status = Healthy, assign 0 minutes.
+
 This allowed total downtime to be calculated across factories and machine types.
 
 ### Data Visualization - Dashboard
