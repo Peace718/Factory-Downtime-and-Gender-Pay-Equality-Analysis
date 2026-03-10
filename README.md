@@ -16,6 +16,14 @@ Daikibo Industrials operates several manufacturing factories globally. The compa
 The organization also received internal complaints regarding potential gender pay inequality across job roles.
 The goal of this project was to analyze these datasets and answer key business questions.
 
+## Project Workflow
+The analysis followed a structured data analytics workflow:
+- **Data Collection**: Imported telemetry and equality datasets provided in the simulation.
+- **Data Preparation**: Cleaned and structured the datasets for analysis in Tableau and Excel.
+- **Data Analysis**: Created calculated fields, classifications, and pivot summaries to uncover patterns.
+- **Data Visualization**: Built interactive dashboards and charts to communicate findings clearly.
+- **Insight Generation**: Interpreted the results to identify operational inefficiencies and pay equality patterns.
+
 ## Task 1 – Factory Machine Downtime Analysis
 ### Objective
 Analyze telemetry data to determine:
@@ -92,19 +100,61 @@ The following Excel formula was used:
 ### Data Visualization
 To improve data interpretation:
 1. Conditional formatting was applied
-
 2. Categories were color coded:
-
 - Blue – Fair
-
 - Orange – Unfair
-
 - Red – Highly Discriminative
-
 A Pivot Table and Pivot Chart were created to visualize the distribution of equality classifications.
+[View the Excel Analysis File](https://1drv.ms/x/c/b81fd396c97d9651/IQCX05xgKCPfQpvDX_J6wzvNAWXnHQOhXkRmBhtQ__1nd6A?e=F9deTp)
 
-📂 View the Excel Analysis File:
-👉 [Insert Google Drive or GitHub File Link]
+### Key Insight
+The analysis shows that most job roles fall into the Fair category, indicating reasonable pay balance.
+However, several roles fall into Unfair and Highly Discriminative categories, highlighting areas where compensation policies may require further review.
+
+## Tools and Technologies
+- Tableau
+- Microsoft Excel
+- Data Visualization
+- Pivot Tables
+- Calculated Fields
+- Conditional Formatting
+
+## Business Impact
+The insights from this analysis can support Daikibo Industrials in improving both operational efficiency and workplace fairness.
+From an operational perspective, identifying the Seiko factory as the location with the highest downtime highlights a clear opportunity for targeted maintenance improvements. Addressing the LaserWelder issue could reduce machine downtime, improve productivity, and prevent potential manufacturing delays.
+From a workforce perspective, the gender equality analysis provides an initial overview of potential pay imbalance across job roles. Identifying roles that fall into the Unfair or Highly Discriminative categories allows leadership to investigate compensation policies and ensure fair pay practices.
+Together, these insights demonstrate how data analysis can support both operational performance and organizational accountability.
+
+## Next Steps
+Further analysis could expand this project in several ways:
+- Time-based analysis of machine failures to detect patterns in downtime.
+- Predictive maintenance modeling to anticipate machine failures before they occur.
+- Factory-level operational comparisons to identify best-performing locations.
+- Deeper workforce analysis including department-level or experience-level pay equality.
+Development of a real-time monitoring dashboard for machine health and operational performance.
+These additional analyses would provide deeper insights and help Daikibo move toward data-driven operational management.
+
+## Disclaimer
+This project was completed as part of the Deloitte Data Analytics Virtual Experience Program on Forage.
+The dataset used in this analysis is simulated and provided for educational purposes only.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
