@@ -12,6 +12,14 @@ The project demonstrates how data analytics can be applied to identify operation
 
 **NOTE**: The dataset used in this project is simulated and provided for educational purposes.
 
+## Tools and Technologies
+- Tableau
+- Microsoft Excel
+- Data Visualization
+- Pivot Tables
+- Calculated Fields
+- Conditional Formatting
+
 ## Business Problem
 Daikibo Industrials operates several manufacturing factories globally. The company collects telemetry data from machines across its facilities to monitor operational performance.
 The organization also received internal complaints regarding potential gender pay inequality across job roles.
@@ -122,14 +130,6 @@ However, several roles fall into Unfair and Highly Discriminative categories, hi
 ### Business Recommendation
 Based on the equality analysis, the organization should review compensation policies for roles classified as Unfair or Highly Discriminative.
 Conducting periodic gender pay audits, implementing transparent salary structures, and analyzing compensation across departments can help ensure fair pay practices and strengthen organizational trust.
-
-## Tools and Technologies
-- Tableau
-- Microsoft Excel
-- Data Visualization
-- Pivot Tables
-- Calculated Fields
-- Conditional Formatting
 
 ## Business Impact
 The insights from this analysis can support Daikibo Industrials in improving both operational efficiency and workplace fairness.
