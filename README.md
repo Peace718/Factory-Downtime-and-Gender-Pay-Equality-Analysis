@@ -162,7 +162,7 @@ Further analysis could expand this project in several ways:
 - Predictive maintenance modeling to anticipate machine failures before they occur.
 - Factory-level operational comparisons to identify best-performing locations.
 - Deeper workforce analysis including department-level or experience-level pay equality.
-Development of a real-time monitoring dashboard for machine health and operational performance.
+- Development of a real-time monitoring dashboard for machine health and operational performance.
 These additional analyses would provide deeper insights and help Daikibo move toward data-driven operational management.
 
 ## Disclaimer
