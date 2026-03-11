@@ -1,5 +1,19 @@
+![Dashboard Preview](dashboard_preview.png)
+
 # Factory-Downtime-and-Gender-Pay-Equality-Analysis
 ### Deloitte Data Analytics Virtual Experience (Forage) Project
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Technology Stack](#technology-stack)
+- [Business Problem](#business-problem)
+- [Project Workflow / Methodology](#project-workflow--methodology)
+- [Task 1 – Factory Machine Downtime Analysis](#task-1--factory-machine-downtime-analysis)
+- [Task 2 – Gender Pay Equality Analysis](#task-2--gender-pay-equality-analysis)
+- [Business Impact](#business-impact)
+- [Next Steps](#next-steps)
+- [Disclaimer](#disclaimer)
 
 ## Project Overview
 This project was completed as part of the Deloitte Data Analytics Virtual Experience Program on Forage.
@@ -12,7 +26,7 @@ The project demonstrates how data analytics can be applied to identify operation
 
 **NOTE**: The dataset used in this project is simulated and provided for educational purposes.
 
-## Tools and Technologies
+## Technology Stack
 - Tableau
 - Microsoft Excel
 - Data Visualization
